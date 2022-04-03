@@ -1,5 +1,5 @@
 # CS 537 2018 Project
-
+# [Original Description](https://github.com/remzi-arpacidusseau/ostep-projects/blob/master/concurrency-mapreduce)
 # Map Reduce
 
 In 2004, engineers at Google introduced a new paradigm for large-scale
